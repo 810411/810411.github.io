@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/810411/weatherapp-react/static/css/main.a42ecbf4.chunk.css",
-    "main.js": "/810411/weatherapp-react/static/js/main.b816bbe6.chunk.js",
-    "main.js.map": "/810411/weatherapp-react/static/js/main.b816bbe6.chunk.js.map",
-    "runtime~main.js": "/810411/weatherapp-react/static/js/runtime~main.9abba789.js",
-    "runtime~main.js.map": "/810411/weatherapp-react/static/js/runtime~main.9abba789.js.map",
-    "static/css/2.a317ec87.chunk.css": "/810411/weatherapp-react/static/css/2.a317ec87.chunk.css",
-    "static/js/2.bd205ef2.chunk.js": "/810411/weatherapp-react/static/js/2.bd205ef2.chunk.js",
-    "static/js/2.bd205ef2.chunk.js.map": "/810411/weatherapp-react/static/js/2.bd205ef2.chunk.js.map",
-    "index.html": "/810411/weatherapp-react/index.html",
-    "precache-manifest.f3ac780ec065166e5d059533292a4774.js": "/810411/weatherapp-react/precache-manifest.f3ac780ec065166e5d059533292a4774.js",
-    "service-worker.js": "/810411/weatherapp-react/service-worker.js",
-    "static/css/2.a317ec87.chunk.css.map": "/810411/weatherapp-react/static/css/2.a317ec87.chunk.css.map",
-    "static/css/main.a42ecbf4.chunk.css.map": "/810411/weatherapp-react/static/css/main.a42ecbf4.chunk.css.map"
+    "main.css": "/weatherapp-react/static/css/main.a42ecbf4.chunk.css",
+    "main.js": "/weatherapp-react/static/js/main.da5b268c.chunk.js",
+    "main.js.map": "/weatherapp-react/static/js/main.da5b268c.chunk.js.map",
+    "runtime~main.js": "/weatherapp-react/static/js/runtime~main.78c81944.js",
+    "runtime~main.js.map": "/weatherapp-react/static/js/runtime~main.78c81944.js.map",
+    "static/css/2.a317ec87.chunk.css": "/weatherapp-react/static/css/2.a317ec87.chunk.css",
+    "static/js/2.d4f4a683.chunk.js": "/weatherapp-react/static/js/2.d4f4a683.chunk.js",
+    "static/js/2.d4f4a683.chunk.js.map": "/weatherapp-react/static/js/2.d4f4a683.chunk.js.map",
+    "index.html": "/weatherapp-react/index.html",
+    "precache-manifest.e977199c3187358c8b0c6217ceb4c939.js": "/weatherapp-react/precache-manifest.e977199c3187358c8b0c6217ceb4c939.js",
+    "service-worker.js": "/weatherapp-react/service-worker.js",
+    "static/css/2.a317ec87.chunk.css.map": "/weatherapp-react/static/css/2.a317ec87.chunk.css.map",
+    "static/css/main.a42ecbf4.chunk.css.map": "/weatherapp-react/static/css/main.a42ecbf4.chunk.css.map"
   }
 }
